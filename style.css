@@ -1,0 +1,21 @@
+body {
+    background: firebrick;
+    font-family: "Open Sans";
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 300px;
+    margin-left: 300px;
+    color: white;
+}
+
+div {
+    background-color: white;
+    padding: 15px;
+    color: #555;
+}
+a:link {
+    color: dodgerblue;
+}
+a:visited {
+    color: violet;
+}
